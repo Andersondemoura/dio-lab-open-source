@@ -87,6 +87,8 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+| `chore`        | Para tarefas de manutenção, como atualização de dependências.        | `chore: Atualiza biblioteca de terceiros`
+
 
 
 ## Referências
